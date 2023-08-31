@@ -1,0 +1,10 @@
+Hola buenas tardes me presento me llamo Fabian Nicolas Alejandro Balbuena.
+
+Me gusta la carrera de Tecnicatura Superior en Desarrollo de Sofware.Para aprender y en el futuro poder trabajar de eso.
+Mi mayor anhelo es poder terminar la carrera y recibirme,para seguir perfeccionándose
+
+ 
+
+
+
+En cuanto a un CRUD, es un acrónimo que representa las operaciones básicas en la gestión de datos: Crear, Leer, Actualizar y Eliminar. Es una metodología fundamental en el desarrollo de aplicaciones y sistemas, ya que permite interactuar con una base de datos o sistema de almacenamiento para crear nuevos registros, leer información existente, actualizar registros existentes y eliminar registros cuando sea necesario. Es una herramienta esencial en el manejo eficiente de la información.
